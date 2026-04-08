@@ -61,6 +61,7 @@ h2 {
     margin-left: 8em;
     margin-right: 8em;
     border: 0.3em solid, rgb(78, 48, 37);
+    margin-bottom: 3em;
 }
 
 h3 {
@@ -75,6 +76,7 @@ h3 {
 
 .hardware {
     text-align: center;
+
 }
 
 .tip {
@@ -130,4 +132,18 @@ h3 {
     font-size: 0.9em;
     border-top: 1px solid rgb(120, 80, 60);
     padding-top: 10px;
+}
+
+.Test {
+    display: block;          /* necesario para centrar */
+    text-align: center;      /* centra el texto */
+    margin: 20px auto;       /* centra horizontalmente */
+    width: fit-content;      /* ajusta al contenido */
+    color: rgb(120, 80, 60);
+    text-decoration: none;
+    
+}
+a {
+    text-decoration: none;
+    color: rgb(120, 80, 60);
 }
