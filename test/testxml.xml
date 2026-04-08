@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type= "text/xsl" href="testxsl.xsl"?>
+<DATA>
+
+	<ROW>
+		<id_pregunta>1</id_pregunta>
+		<pregunta>¿Qué componente es considerado el cerebro del computador?</pregunta>
+		<opcion_a>Memoria RAM</opcion_a>
+		<opcion_b>CPU</opcion_b>
+		<opcion_c>Disco duro</opcion_c>
+		<respuesta_correcta>B</respuesta_correcta>
+		<respuestas>Juan:B, Juan:B, Juan:B</respuestas>
+	</ROW>
+
+	<ROW>
+		<id_pregunta>2</id_pregunta>
+		<pregunta>¿Qué tipo de memoria es volátil?</pregunta>
+		<opcion_a>RAM</opcion_a>
+		<opcion_b>ROM</opcion_b>
+		<opcion_c>Disco SSD</opcion_c>
+		<respuesta_correcta>A</respuesta_correcta>
+		<respuestas>Juan:A, Juan:A, Juan:A</respuestas>
+	</ROW>
+
+	<ROW>
+		<id_pregunta>3</id_pregunta>
+		<pregunta>¿Qué puerto se utiliza para conectar la mayoría de los dispositivos USB?</pregunta>
+		<opcion_a>Puerto HDMI</opcion_a>
+		<opcion_b>Puerto USB-A</opcion_b>
+		<opcion_c>Puerto VGA</opcion_c>
+		<respuesta_correcta>B</respuesta_correcta>
+		<respuestas>Ana:B, Ana:B, Ana:B</respuestas>
+	</ROW>
+
+	<ROW>
+		<id_pregunta>4</id_pregunta>
+		<pregunta>¿Qué significa HDD?</pregunta>
+		<opcion_a>Hard Disk Drive</opcion_a>
+		<opcion_b>High Data Device</opcion_b>
+		<opcion_c>Hardware Direct Disk</opcion_c>
+		<respuesta_correcta>A</respuesta_correcta>
+		<respuestas>Ana:A, Ana:A, Ana:A</respuestas>
+	</ROW>
+
+	<ROW>
+		<id_pregunta>5</id_pregunta>
+		<pregunta>¿Cuál es la función principal de la GPU?</pregunta>
+		<opcion_a>Procesar gráficos</opcion_a>
+		<opcion_b>Almacenar datos</opcion_b>
+		<opcion_c>Controlar la red</opcion_c>
+		<respuesta_correcta>A</respuesta_correcta>
+		<respuestas>Pedro:A, Pedro:A, Pedro:A</respuestas>
+	</ROW>
+
+	<ROW>
+		<id_pregunta>6</id_pregunta>
+		<pregunta>¿Qué componente almacena datos de manera permanente?</pregunta>
+		<opcion_a>RAM</opcion_a>
+		<opcion_b>ROM</opcion_b>
+		<opcion_c>Procesador</opcion_c>
+		<respuesta_correcta>B</respuesta_correcta>
+		<respuestas>Pedro:B, Pedro:B, Pedro:B</respuestas>
+	</ROW>
+
+	<ROW>
+		<id_pregunta>7</id_pregunta>
+		<pregunta>¿Qué dispositivo permite interactuar con la computadora mediante clics?</pregunta>
+		<opcion_a>Teclado</opcion_a>
+		<opcion_b>Mouse</opcion_b>
+		<opcion_c>Monitor</opcion_c>
+		<respuesta_correcta>B</respuesta_correcta>
+		<respuestas>Lucía:B, Lucía:B</respuestas>
+	</ROW>
+
+	<ROW>
+		<id_pregunta>8</id_pregunta>
+		<pregunta>¿Qué puerto se usa comúnmente para monitores modernos?</pregunta>
+		<opcion_a>VGA</opcion_a>
+		<opcion_b>HDMI</opcion_b>
+		<opcion_c>PS/2</opcion_c>
+		<respuesta_correcta>B</respuesta_correcta>
+		<respuestas>Lucía:B, Lucía:B</respuestas>
+	</ROW>
+
+	<ROW>
+		<id_pregunta>9</id_pregunta>
+		<pregunta>¿Qué componente gestiona la energía y distribuye voltajes al hardware?</pregunta>
+		<opcion_a>Fuente de poder</opcion_a>
+		<opcion_b>Motherboard</opcion_b>
+		<opcion_c>CPU</opcion_c>
+		<respuesta_correcta>A</respuesta_correcta>
+		<respuestas>Carlos:A, Carlos:A</respuestas>
+	</ROW>
+
+	<ROW>
+		<id_pregunta>10</id_pregunta>
+		<pregunta>¿Qué tipo de memoria se utiliza para almacenamiento rápido temporal en la CPU?</pregunta>
+		<opcion_a>Cache</opcion_a>
+		<opcion_b>ROM</opcion_b>
+		<opcion_c>SSD</opcion_c>
+		<respuesta_correcta>A</respuesta_correcta>
+		<respuestas>Carlos:A, Carlos:A</respuestas>
+	</ROW>
+</DATA>
