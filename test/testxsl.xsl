@@ -60,7 +60,6 @@
             color: white;
             border: none;
             border-radius: 0.5em;
-            cursor: pointer;
         }
 
         .submit-btn:hover {
